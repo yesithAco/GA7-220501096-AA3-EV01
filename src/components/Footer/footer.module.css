@@ -1,0 +1,27 @@
+.footer{
+    box-shadow: 0 0px 5px 1px #ccc;
+   padding: 5px; 
+   margin-bottom: 5px;
+   bottom: 0px;
+   width: 100%;
+   position: fixed;
+   background-color: #f8f8f8;  
+}
+.footer ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.footer ul li{
+    list-style: none;
+    box-shadow: 0px 0px 5px 1px #ccc;
+    margin: 1px 1px 1px 1px;
+
+}
+.footer ul li a{
+    text-decoration: none;
+   justify-content: center;
+}
+
+
+  
